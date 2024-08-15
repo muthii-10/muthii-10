@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Victor Muthii (@muthii-10)
 
-- 👀 I’m interested in data science, machine learning, and marketing analytics.
-- 🌱 I’m currently learning advanced machine learning techniques and deepening my knowledge in marketing data analysis.
+- 👀 I’m interested in data science/analysis, machine learning, and economics.
+- 🌱 I’m currently learning advanced machine learning techniques and deepening my knowledge in neural nets.
 - 💞️ I’m looking to collaborate on open source projects that involve data analytics, predictive modeling, and automation tools.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-muthii) | [Email](mailto:mv.munene01@gmail.com.com)
 - 😄 Pronouns: He/Him
