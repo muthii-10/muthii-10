@@ -1,6 +1,6 @@
 # Hey, I'm Muthii 👋
 
-> *I speak SQL, think in Python, and dream in data. Analyst by title, scientist by ambition. Blending classic analytics with AI to see what's possible.*
+> *From ambiguity to clarity — Victor loves using data to define problems, test ideas, and uncover what matters.*
 
 I turn raw, messy data into decisions that matter — and I'm building the machine learning foundations to do it at a deeper level. The gap between Analyst and Scientist is just a lot of Python, curiosity, and stubbornness. I've got all three.
 
@@ -13,7 +13,7 @@ I turn raw, messy data into decisions that matter — and I'm building the machi
 | 📊 **Analytics & BI** | Excel · Power BI |
 | 🗄️ **Data** | SQL |
 | 🐍 **Programming** | Python |
-| 🤖 **AI & ML** | Exploring & building |
+| 🤖 **AI & ML** | Learning & building |
 
 ---
 
@@ -21,7 +21,7 @@ I turn raw, messy data into decisions that matter — and I'm building the machi
 
 ```python
 journey = {
-    "now":      "Data Analyst — dashboards, queries, insights",
+    "now":      "Analysis - questioning the data to derive insights",
     "learning": "ML fundamentals, model building, AI integration",
     "vision":   "Data Scientist in a few",
     "motto":    "The data always has something to say. My job is to listen."
