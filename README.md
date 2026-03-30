@@ -1,56 +1,67 @@
-# Hey, I'm Muthii 👋
+# Victor Muthii
 
-> *From ambiguity to clarity — Victor loves using data to define problems, test ideas, and uncover what matters.*
+**Data Analyst · Nairobi, Kenya**
 
-I turn raw, messy data into decisions that matter — and I'm building the machine learning foundations to do it at a deeper level. The gap between Analyst and Scientist is just a lot of Python, curiosity, and stubbornness. I've got all three.
+I work at the intersection of data and business judgment — the layer where numbers stop being numbers and start being decisions. My work focuses on translating analytical findings into language that moves people: recommendations that get acted on, not just filed.
+
+Currently building a portfolio that bridges clean analysis with real business problems.
 
 ---
 
-## 🧰 My Stack
+## 🔍 What I Do
 
-| Layer | Tools |
+I take messy, real-world data and turn it into a clear point of view. That means:
+
+- Framing the right business question before touching the data
+- Building rigorous cleaning and transformation pipelines
+- Doing the analysis — segmentation, cohort logic, SQL, EDA
+- Communicating findings in a way that non-technical stakeholders actually use
+
+The last part is the hardest. It's also the most important.
+
+---
+
+## 📂 Featured Projects
+
+### [Customer Segmentation & Personalization](https://github.com/muthii-10/customer-segmentation-and-personalization)
+> *E-commerce fashion retailer spending heavily on promotions — but treating all customers the same.*
+
+Built end-to-end: data profiling and cleaning → feature engineering → PostgreSQL segmentation analysis → visualisations → live Streamlit dashboard.
+
+**Key finding:** 1,145 high-value customers are discount-independent. Removing their discounts carries zero revenue risk and immediate margin improvement.
+
+**Stack:** Python · PostgreSQL · Streamlit · Matplotlib · Seaborn  
+**🔗 [Live Dashboard](https://customer-segmentation-and-personalization-n3stlwdayzsumw24kitb.streamlit.app)**
+
+---
+
+### [Online Retail Store — Revenue Analysis](https://github.com/muthii-10/Online-Retail-Store-Revenue-Analysis) *(in progress)*
+> *One year of transactional data from a UK-based online retailer — 537K raw transactions across 22 European markets.*
+
+Built a rigorous cleaning pipeline (cancellation handling, StockCode classification, outlier treatment, description normalisation) and structured the output into a star schema — FactSales, DimCustomer, DimProduct, DimDate — ready for revenue and cohort analysis.
+
+**Next:** Revenue trends, cohort retention, product performance, Streamlit dashboard  
+**Stack:** Python · pandas · Jupyter Notebooks
+
+---
+
+## 🧰 Stack
+
+| | |
 |---|---|
-| 📊 **Analytics & BI** | Excel · Power BI |
-| 🗄️ **Data** | SQL |
-| 🐍 **Programming** | Python |
-| 🤖 **AI & ML** | Learning & building |
+| **Languages** | Python · SQL |
+| **Analysis** | pandas · numpy · EDA · segmentation |
+| **Visualisation** | matplotlib · seaborn · Power BI · Excel |
+| **Deployment** | Streamlit |
+| **Databases** | PostgreSQL |
 
 ---
 
-## 🧭 Where I'm Headed
+## 📬 Get in Touch
 
-```python
-journey = {
-    "now":      "Analysis - questioning the data to derive insights",
-    "learning": "ML fundamentals, model building, AI integration",
-    "vision":   "Data Scientist in a few",
-    "motto":    "The data always has something to say. My job is to listen."
-}
-```
+- 💼 [LinkedIn](https://linkedin.com/in/victor-muthii)
+- 📧 mv.munene01@gmail.com
 
 ---
 
-## 🔍 Currently
-
-- 🔭 Working on data projects that bridge analytics and AI
-- 📚 Deepening my Python & ML skills
-- 💡 Always asking *"but what does the data actually say?"*
-
----
-
-*Thanks for stopping by. The best insights are always one query away.* 🚀
-
-<!--
-**muthii-10/muthii-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*The data always has something to say. My job is to make sure the right people hear it.*
