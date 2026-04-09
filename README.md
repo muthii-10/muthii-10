@@ -23,7 +23,7 @@ The last part is the hardest. It's also the most important.
 
 ## 📂 Featured Projects
 
-### [Customer Segmentation & Personalization](https://github.com/muthii-10/customer-segmentation-and-personalization)
+### [Discount Strategy Analysis](https://github.com/muthii-10/customer-segmentation-and-personalization)
 > *E-commerce fashion retailer spending heavily on promotions — but treating all customers the same.*
 
 Built end-to-end: data profiling and cleaning → feature engineering → PostgreSQL segmentation analysis → visualisations → live Streamlit dashboard.
